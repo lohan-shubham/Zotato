@@ -13,4 +13,4 @@ Run Command:
 $ javac *.java
 $ java Main
 ```
-[](/image.jpg)
+![](/image.jpg)
